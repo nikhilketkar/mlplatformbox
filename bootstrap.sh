@@ -25,7 +25,7 @@ apt-get install -y fabric
 apt-get install -y screen
 apt-get install -y python-requests
 apt-get install -y python-opencv
-
+apt-get install -y python-setuptools
 
 
 
