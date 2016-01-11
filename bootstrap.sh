@@ -21,6 +21,10 @@ apt-get install -y python-numpy
 apt-get install -y python-protobuf
 apt-get install -y python-scikits-learn
 apt-get install -y python-skimage
+apt-get install -y fabric
+apt-get install -y screen
+
+
 
 
 
