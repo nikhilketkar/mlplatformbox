@@ -2,6 +2,7 @@
 
 apt-get update
 
+apt-get install -y ack-grep
 apt-get install -y automake
 apt-get install -y build-essential
 apt-get install -y byacc
@@ -43,4 +44,4 @@ apt-get install -y python-thrift
 apt-get install -y screen
 apt-get install -y thrift-compiler
 apt-get install -y unzip
-apt-get install -y zip
+apt-get install -y zip 
