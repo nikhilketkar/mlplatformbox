@@ -12,6 +12,7 @@ apt-get install -y emacs24
 apt-get install -y fabric
 apt-get install -y flex
 apt-get install -y git
+apt-get install -y git-extras
 apt-get install -y gunicorn
 apt-get install -y ipython
 apt-get install -y libatlas-base-dev
