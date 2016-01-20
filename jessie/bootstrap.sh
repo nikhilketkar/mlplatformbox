@@ -13,7 +13,6 @@ apt-get install -y emacs24
 apt-get install -y fabric
 apt-get install -y flex
 apt-get install -y git
-apt-get install -y git-extras
 apt-get install -y gunicorn
 apt-get install -y ipython
 apt-get install -y libatlas-base-dev
@@ -28,7 +27,10 @@ apt-get install -y libopencv-dev
 apt-get install -y libprotobuf-dev
 apt-get install -y libsnappy-dev
 apt-get install -y libssl-dev
+apt-get install -y libtbb-dev
 apt-get install -y libtool
+apt-get install -y lsb-release
+apt-get install -y mosh
 apt-get install -y pkg-config
 apt-get install -y protobuf-compiler
 apt-get install -y python-boto
@@ -44,4 +46,4 @@ apt-get install -y python-thrift
 apt-get install -y screen
 apt-get install -y thrift-compiler
 apt-get install -y unzip
-apt-get install -y zip 
+apt-get install -y zip
